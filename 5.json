@@ -1,7 +1,7 @@
 {
     "description": "Freaky Future is a dystopic inmersive experience made out of 4004 unique life forms that shows the inevitable future of our planet. Learn more at www.freakyfuture.wtf",
-    "image": "image.png",
-    "name": "Freaky Future  #3006",
+    "image": "https://raw.githubusercontent.com/Totorroto/testimg/main/5.png",
+    "name": "Freaky Future  #3006",	
     "attributes": [
         {
             "trait_type": "Backgrounds",
