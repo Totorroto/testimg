@@ -1,0 +1,51 @@
+{
+    "description": "Freaky Future is a dystopic inmersive experience made out of 4004 unique life forms that shows the inevitable future of our planet. Learn more at www.freakyfuture.wtf",
+    "image": "image.png",
+    "name": "Freaky Future  #3010",
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "Grey shadow"
+        },
+        {
+            "trait_type": "Planets",
+            "value": "No planet"
+        },
+        {
+            "trait_type": "Flora",
+            "value": "Cucumelo"
+        },
+        {
+            "trait_type": "Interior body",
+            "value": "Plant reproduction"
+        },
+        {
+            "trait_type": "Arms",
+            "value": "Light blue"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Ideogram 5"
+        },
+        {
+            "trait_type": "Humanoid heads",
+            "value": "Transparent brain"
+        },
+        {
+            "trait_type": "Head accesories",
+            "value": "Punk hair short"
+        },
+        {
+            "trait_type": "Stickers",
+            "value": "No stricker"
+        },
+        {
+            "trait_type": "Faces",
+            "value": "Man from the sun"
+        },
+        {
+            "trait_type": "Bugs",
+            "value": "No bug"
+        }
+    ]
+}
